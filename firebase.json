@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/deadpool-employee-management",
+    "public": "dist/deadpool-employee-management/browser",
     "ignore": [
       "firebase.json",
       "**/.*",
